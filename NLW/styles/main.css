@@ -1,0 +1,39 @@
+:root{
+    --title-color: #322153;
+    --primary-color: #34CD79;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#page-home {
+    height: 100vh;
+    background: url('../icones/home-background.svg') no-repeat ;
+    background-position: 40vw bottom;
+}
+
+body {
+    background-color: #F0F0F5;
+    -webkit-font-smoothing: antialising;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--title-color);
+    font-family: 'ubuntu', sans-serif;
+}
+
+html{
+    font-family: 'Montserrat', sans-serif;
+
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+
