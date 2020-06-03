@@ -1,2 +1,2 @@
 #Git&Github
-Repositório para postar projetos em ReacJS.
+Repositório para postar projetos aleatórios de treino.
